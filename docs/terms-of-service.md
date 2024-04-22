@@ -22,4 +22,4 @@ Mi ne snosimo odgovornost za bilo kakvu štetu ili gubitak koji proizilazi iz ko
 
 Zadržavamo pravo da povremeno ažuriramo ove Uslove korišćenja. Sve promene će biti objavljene na našoj platformi, forumu i Discord serveru. Nastavak korišćenja naših Usluga nakon objavljivanja izmenjenih uslova predstavlja vašu saglasnost sa tim izmenama.
 
-Ako imate bilo kakvih pitanja ili nedoumica u vezi sa našim Uslovima korišćenja, slobodno nas kontaktirajte putem [kontakt forme](link_ka_kontakt_formi).
+Ako imate bilo kakvih pitanja ili nedoumica u vezi sa našim Uslovima korišćenja, slobodno nas kontaktirajte putem [kontakt forme](mailto:admin@lscrp.net).

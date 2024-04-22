@@ -20,4 +20,4 @@ Ova politika privatnosti može biti ažurirana povremeno. Sve promene će biti o
 
 ## Kontakt
 
-Ako imate bilo kakvih pitanja ili nedoumica u vezi sa našom politikom privatnosti, slobodno nas kontaktirajte putem [kontakt forme](link_ka_kontakt_formi).
+Ako imate bilo kakvih pitanja ili nedoumica u vezi sa našom politikom privatnosti, slobodno nas kontaktirajte putem [kontakt forme](mailto:admin@lscrp.net).
