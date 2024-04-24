@@ -20,12 +20,13 @@ export default defineConfig({
                 ]
             },
             {
-              text: 'Pravila',
-              items: [
-                  { text: 'Generalna pravila', link: '/docs/rules/general' },
-                  { text: 'Server pravila', link: '/docs/rules/general' },
-                  { text: 'Roleplay pravila', items: [{text: 'Metagaming', link: '/docs/rules/rp/mg'}]},
-              ]
+                text: 'Pravila',
+                items: [
+                    {text: 'Server pravila', link: '/docs/server-rules'},
+                    {text: 'Pravila računa', link: '/docs/account-rules'},
+                    {text: 'Pravila fakcija', link: '/docs/faction-rules'},
+                    {text: 'Rules of Engagement', link: '/docs/roe'}
+                ]
             },
             {
                 text: 'Uslovi i pravila',
@@ -38,6 +39,24 @@ export default defineConfig({
 
         socialLinks: [
             {icon: 'github', link: 'https://github.com/vuejs/vitepress'}
-        ]
-    }
+        ],
+
+        notFound: {
+            title: 'Stranica nije pronadjena',
+            quote: 'Ali ako ne promenite pravac i ako nastavite da tražite, možda ćete završiti tamo gde ste krenuli.',
+            linkText: 'Vodi me kući'
+        },
+
+        docFooter: {
+            prev: 'Prethodna stranica',
+            next: 'Sledeća stranica',
+        },
+        outlineTitle: 'Na ovoj stranici',
+        lastUpdatedText: 'Zadnja izmena',
+        returnToTopLabel: 'Nazad na vrh',
+        darkModeSwitchTitle: 'Tamni režim',
+        lightModeSwitchTitle: 'Svetli režim',
+    },
+
+    lastUpdated: true,
 })

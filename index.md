@@ -6,7 +6,7 @@ hero:
   name: "Los Santos County Roleplay"
   text: "Oficijalna Vikipedija"
   image:
-    src: /assets/images/lsc-rp-logo-4.png
+    src: ./assets/images/lsc-rp-logo-4.png
     alt: LSC:RP
   tagline: Vaša centralna tačka za sve pravila i smernice - pravila servera, smernice zajednice, uslovi korišćenja, politika privatnosti, dokumentovani sistemi i ostalo.
   actions:
