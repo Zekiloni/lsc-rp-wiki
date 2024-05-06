@@ -15,8 +15,7 @@ export default defineConfig({
             {
                 text: 'Wiki',
                 items: [
-                    {text: 'Glavna strana', link: '/docs/main-page'},
-                    {text: 'Markdown Examples', link: '/docs/markdown-examples'}
+                    {text: 'Glavna strana', link: '/docs/main-page'}
                 ]
             },
             {
