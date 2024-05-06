@@ -15,8 +15,8 @@ export default defineConfig({
             {
                 text: 'Wiki',
                 items: [
-                    {text: 'Markdown Examples', link: '/docs/markdown-examples'},
-                    {text: 'Runtime API Examples', link: '/docs/api-examples'}
+                    {text: 'Glavna strana', link: '/docs/main-page'},
+                    {text: 'Markdown Examples', link: '/docs/markdown-examples'}
                 ]
             },
             {
@@ -25,8 +25,13 @@ export default defineConfig({
                     {text: 'Server pravila', link: '/docs/server-rules'},
                     {text: 'Pravila računa', link: '/docs/account-rules'},
                     {text: 'Pravila fakcija', link: '/docs/faction-rules'},
-                    {text: 'Rules of Engagement', link: '/docs/roe'},
-                    {text: 'Test Deker', link: '/docs/test'}
+                    {text: 'Rules of Engagement', link: '/docs/roe'}
+                ]
+            },
+            {
+                text: 'Opste stvari',
+                items: [
+                    {text: 'Kontinuitet', link: '/docs/con-page'}
                 ]
             },
             {
