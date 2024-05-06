@@ -30,7 +30,8 @@ export default defineConfig({
             {
                 text: 'Opste stvari',
                 items: [
-                    {text: 'Kontinuitet', link: '/docs/con-page'}
+                    {text: 'Kontinuitet', link: '/docs/con-page'},
+                    {text: 'Istorija', link: '/docs/history-page'}
                 ]
             },
             {
