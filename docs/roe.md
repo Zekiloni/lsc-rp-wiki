@@ -1,8 +1,6 @@
 # Rules of Engagement
 
-::: info
 Rules of Engagement važe za sve članove frakcija i predstavljaju standard koji se Illegal Faction Management očekuje da igrači/frakcije poštuju u slučaju sukoba između dve frakcije.
-:::
 
 ## Početak
 
@@ -12,7 +10,7 @@ Rules of Engagement važe za sve članove frakcija i predstavljaju standard koji
 4. Ratovi fakcija
 5. Saveznici i plaćenici
 
-### 1. Sukob fakcija
+## 1. Sukob fakcija
 
 Fakcija je formalno u konfliktu kada jedna izvrši neprijateljsku akciju prema drugoj. Ovo je vrlo kontekstualno i slobodno definisano. Na primer: Fakcija koja je označila stambeni blok druge fakcije sada se smatra u konfliktu sa tom drugom fakcijom. Postoje različiti nivoi sukoba, pri čemu je najviši smrtonosni sukob. Smrtonosni sukob mora biti postignut kroz realnu i organsku eskalaciju.
 
@@ -22,7 +20,7 @@ Fakcije se očekuje i zahteva da prate pravila navedena u ovom dokumentu tokom s
 Ovi dogovori između fakcija smatraju se sporazumima džentlmena, što znači da su neformalni i da ih IFM ne primenjuje osim ako eskalacija koja se pojavi nije smatrana nerealnom.
 ::: 
 
-### 2. Učešće u sukobu
+## 2. Učešće u sukobu
 
 Fakcije ne smeju započinjati sukobe sa drugim fakcijama dok ne prođe 14 dana od njihovog osnivanja. Fakcijama u prvih 14 dana dozvoljeno je da se brane i osvete ukoliko postanu žrtve napada ili sukoba. Svaka fakcija koja započne sukob dok je još u tom periodu od 14 dana podložna je mogućem gašenju.
 
@@ -37,7 +35,7 @@ Koriste svog najviše rangiranog karaktera. Alternativni karakteri nisu dozvolje
 Samo zvaničnim fakcijama je dozvoljeno da koriste alternativne karaktere nakon explicitnog odobrenja IFM-a. Nezvanične fakcije strogo je zabranjeno da imaju alternativne karaktere.
 ::: 
 
-### 3. Ubistva učesnika sukoba
+## 3. Ubistva učesnika sukoba
 
 Sukob igrača (PK) događa se kada član fakcije koji učestvuje u sukobu bude ubijen od strane neprijateljske fakcije u vezi sa tim sukobom. Sukob PK takođe nastaje kada član fakcije bude ubijen od strane policije dok je na putu ka napadu ili beži sa njega.
 
@@ -55,7 +53,7 @@ PK-ovani igrači ne smeju vršiti "patrole" na "teritoriji" u očekivanju napada
 
 Igrač koji je PK-ovan u sukobu fakcija ne sme priznavati specifičan sukob, ali može priznati da je njihova fakcija u ratu. Nije im dozvoljeno da se uključe, strategiziraju ili dele plen rata. Ostali likovi u njihovoj fakciji ne smeju ih kažnjavati zbog njihovog neangažovanja.
 
-### 4. Ratovi fakcija
+## 4. Ratovi fakcija
 
 Fakcije se mogu smatrati u ratu kada dostignu nivoe smrtonosnog sukoba zbog ubistava igrača ili drugih odgovarajućih eskalacija koje zahtevaju gubitak života. U ovom trenutku, napadi fakcija se očekuju, kao i odbrambene akcije. Lideri fakcija takođe su obavezni da se obrate jedni drugima i komuniciraju uslove za završetak rata (ako ste lider fakcije na IFM Discord-u, pročitajte ovo).
 
@@ -110,7 +108,7 @@ Fakcijama koje se brane dozvoljeno je odmah otvaranje vatre na neprijatelje čim
 
 Ovo važi samo kada napadačka fakcija prilazi i ulazi u teritoriju fakcije koja se brani. Moraju postojati neki oblik dokumentacije da su prethodno identifikovani.
 
-### 5. Saveznici i plaćenici
+## 5. Saveznici i plaćenici
 
 Mnoge fakcije su saveznički povezane tokom svog postojanja kao fakcije (snabdevanje jedni druge, organizovanje događaja zajedno, itd.). Međutim, ovo nije dovoljno opravdanje da se pridruže ratu sa prijateljskom fakcijom. Fakcije koje žele da se udruže tokom fakcijskog rata moraju imati direktno uključenje i razlog za želju da se uključe. Ovaj razlog mora biti komuniciran IFM-u putem odgovarajućeg fakcijskog kanala i mora se dobiti eksplicitno odobrenje pre učešća u bilo kojim akcijama kao kolektiv.
 
