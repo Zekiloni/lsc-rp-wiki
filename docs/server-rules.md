@@ -1,7 +1,7 @@
 
 # Server Pravila
 
-## Common Courtesy (CC)
+## 1. Common Courtesy (CC)
 
 Budite ljubazni prema drugima i razmislite prije nego što nešto napišete. Nema potrebe za uvredama ili zlostavljanjem, posebno prema osoblju koje je ovdje da vam pomogne.
 
@@ -19,7 +19,7 @@ Razgovori izvan privatnih poruka trebaju biti na engleskom ili neki od balkanski
 Kazna za kršenje ovog pravila je bilo šta, od usmenog upozorenja do zabrane [ban] u zavisnosti od težine.
 :::
 
-## Metagaming (MG)
+## 2. Metagaming (MG)
 
 Korišćenje OOC informacija IC na bilo koji način je definisano kao metagaming i nije dozvoljeno. Podsticanje nekoga na metagame, što znači namerno izazivanje nekog drugog da metagame, takođe nije dozvoljeno.
 
@@ -30,7 +30,7 @@ Primer
 Kazna za kršenje ovog pravila je bilo šta od administrativnog zatvora do zabrane [ban] u zavisnosti od težine i ishoda vaših radnji.
 :::
 
-## Powergaming (PG)
+## 3. Powergaming (PG)
 
 Powergaming je stil igranja u kojem igrač koristi nepoštene ili neprirodne taktike kako bi stekao prednost ili forsirao ishod događaja bez obzira na logiku ili realnost situacije. Ovo ponašanje narušava ravnotežu igre i oduzima drugima priliku da se uključe u igru na fer i realističan način.
 
@@ -42,7 +42,7 @@ Primer
 Kazna za kršenje ovog pravila je bilo šta, od usmenog upozorenja do zabrane [ban] u zavisnosti od težine.
 :::
 
-## Deathmatching (DM)
+## 4. Deathmatching (DM)
 Deathmatching se odnosi na napad na druge igrače ili uništavanje njihovih vozila bez ikakvog opravdanog razloga ili bez prethodnog dogovora unutar igre.
 
 Primer:
@@ -52,7 +52,7 @@ Primer:
 Kazna za kršenje ovog pravila je od administrativnog zatvora do zabrane [ban] u zavisnosti od težine.
 :::
 
-## Pravila karaktera
+## 5. Pravila karaktera
 
 Pravila karaktera odnose se na sve kustomizacije, imena i izgled karaktera. Prilikom pravljanje karaktera, potrebno je izabrati ime koje se ne odnosi na poznate ličnosti, koje je prikladno i koje je u skladu sa roleplay-om. Pored imena, korišćenje objekata i attachovanje objekata na karaktera, koji nisu realistični ili se kose sa pravilima roleplaya, je zabranjeno. Karakteri moraju imati minimalno 16 godina, a roleplay mora biti usklađen godinama karaktera.
 
@@ -60,7 +60,7 @@ Pravila karaktera odnose se na sve kustomizacije, imena i izgled karaktera. Pril
 Kazna za kršenje ovog pravila je administrativna zabrana [ban] u zavisnosti od težine.
 :::
 
-## Modifikacije i čitovi
+## 6. Modifikacije i čitovi
 
 Čitovanje na serveru je zabranjeno. Korišćenje bilo kakvih modifikacija koje vam daju prednost nad drugim igračima je zabranjeno. Korišćenje modova, koji pospešuju izgled vaše igrice je dozvoljeno, dokle god vam ne daje prednost nad drugim igračima.
 
@@ -76,7 +76,7 @@ Iskorišćavanje bagova u svoju korist je zabranjeno. Ukoliko primetite bag, pot
 Kazna za kršenje ovog pravila je administrativna zabrana [ban] u zavisnosti od težine.
 :::
 
-## Neprikladan ili uvredljivi Roleplay
+## 7. Neprikladan ili uvredljivi Roleplay
 
 Roleplay vašeg karaktera mora u svakom trenutku biti u skladu sa standardima. Pravljanje karaktera koji su uvredljivi za određene grupe, rase ili nacionalnosti je potpuno zabranjeno. Pri kreiranju karaktera, trudite se da vaš karakter bude prihvatljiv svima. Osim toga, ovo pravilo se odnosi na roleplay situacija kao što su mučenje, seksualne aktivnosti ili bilo koje situacije koje nisu prikladne. Za vršenje ovog roleplay-a, morate imati dozvolu svih uključenih, a roleplay se mora odvijati dalje od javnosti.
 
@@ -89,7 +89,7 @@ Primer:
 Kazna za kršenje ovog pravila je administrativna zabrana [ban] u zavisnosti od težine.
 :::
 
-## Pljačke i prevare
+## 8. Pljačke i prevare
 
 Od počinitelja pljačke se očekuje da detaljno opišu /me radnje gde tačno vrše pretragu na telu osobe. Ne možete napraviti jedan dugi /me da tražite svuda, već treba da se radnja razbije i zatim postavi pitanje u /do da li su pronađeni neki predmeti.
 
@@ -108,7 +108,7 @@ Primer:
 Kazna za kršenje ovog pravila je bilo šta, od usmenog upozorenja do zabrane [ban] u zavisnosti od težine.
 :::
 
-## Uništavanje imovine
+## 9. Uništavanje imovine
 
 Uništavanje imovine bez dozvole prisutnog administratora nije dozvoljeno. Pre planiranja uništavanja imovine drugog igrača, potrebno je da kontaktirate admina, opišete svoj plan i razlog, a zatim uz odobrenje izvršite radnju.
 
@@ -116,7 +116,7 @@ Uništavanje imovine bez dozvole prisutnog administratora nije dozvoljeno. Pre p
 Kazna za kršenje ovog pravila je bilo šta, od usmenog upozorenja do zabrane [ban] u zavisnosti od težine.
 :::
 
-## Green Zones
+## 10. Green Zones
 
 Green zones su zone u kojima su ilegalne radnje zabranjene. Trenutno, na Los Santos County roleplay, green zones su bilo koje zone u blizini javnih ustanova i unutar javnih prostora. Dakle, zabranjeno je počinjavanje kriminalnih radnji u neposrednoj okolini policijskih stanica, unutar banke, oko bolnica i slično.
 
@@ -126,7 +126,7 @@ Kriminalne aktivnosti unutar green zona, dozvoljene su samo ako su započete van
 Kazna za kršenje ovog pravila je bilo šta, od usmenog upozorenja do zabrane [ban] u zavisnosti od težine.
 :::
 
-## Iskorišćavanje PF i CCW
+## 11. Iskorišćavanje PF i CCW
 
 Iskorišćavanje PF i CCW licenci za oružije odnosi se na preprodaju ili poklanjanje oružija koje je stečeno preko CCW ili PF licence. Na Los Santos County Roleplay, svo oružije dobijeno preko CCW i PF licenca dobija se direktno od administracije uz roleplay. Svako iskorišćavanje i dalje plasiranje ovakvog oružja drugim igračima je zabranjeno.
 
@@ -137,7 +137,7 @@ Primer:
 Kazna za kršenje ovog pravila bilo šta od administrativnog zatvora zabrane [ban] u zavisnosti od težine.
 ::: 
 
-## Transfer imovine i novca
+## 12. Transfer imovine i novca
 
 Transfer imovine i novca sa jednog karaktera na drugi nije dozvoljen bez odobrenja administracije. Ukoliko igrač transferuje imovinu ili novac sa jednog karaktera na drugi, to je kršenje pravila bez obzira na to ako su oba karaktera vaša. Ukoliko želite transferovati imovinu ili novac na drugog karaktera ili igrača, potrebno je kontaktirati administraciju.
 
@@ -145,7 +145,7 @@ Transfer imovine i novca sa jednog karaktera na drugi nije dozvoljen bez odobren
 Kazna za kršenje ovog pravila bilo šta od administrativnog zatvora zabrane [ban] u zavisnosti od težine.
 ::: 
 
-## Guns From Ass (GFA)
+## 13. Guns From Ass (GFA)
 
 Skrolovanje oružja bez adekvatnog roleplaya je zabranjeno. Za oružja kao što su desert eagle i manji pištolji (sličnih ili istih dimenzija), ovo pravilo ne važi. Svako veće oružije, koje realistično ne bi moglo da se izvadi neprimećeno, mora biti propraćeno adekvatnim roleplay-om.
 
@@ -156,7 +156,7 @@ Primer:
 Kazna za kršenje ovog pravila bilo šta od administrativnog zatvora zabrane [ban] u zavisnosti od težine.
 ::: 
 
-## Povratak na lokaciju nakon smrti
+## 14. Povratak na lokaciju nakon smrti
 
 Igrači koji su umrli i koji žele da se vrate (ili osvete) u roleplayu na istoj lokaciji ili sa istom grupom moraju sačekati dok se situacija koja je dovela do njihove smrti ne završi (na primer, sve hitne službe su napustile ili su preživeli članovi vaše grupe zaključili taj roleplay). Ovo pravilo odnosi se i na Revenge Kill koji je zabranjen.
 

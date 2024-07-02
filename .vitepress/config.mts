@@ -24,8 +24,8 @@ export default defineConfig({
                 text: 'Pravila',
                 items: [
                     {text: 'Server pravila', link: '/docs/server-rules'},
-                    {text: 'Pravila računa', link: '/docs/account-rules'},
                     {text: 'Pravila fakcija', link: '/docs/faction-rules'},
+                    {text: 'Supplier program', link: '/docs/supplier-program'},
                     {text: 'Rules of Engagement', link: '/docs/roe'}
                 ]
             },
