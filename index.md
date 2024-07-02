@@ -8,7 +8,7 @@ hero:
   image:
     src: ./assets/images/lsc-rp-logo-4.png
     alt: LSC:RP
-  tagline: Vaša centralna tačka za sve pravila i smernice - pravila servera, smernice zajednice, uslovi korišćenja, politika privatnosti, dokumentovani sistemi i ostalo.
+  tagline: Vaša centralna tačka za sva pravila i smernice - pravila servera, smernice zajednice, uslovi korišćenja, politika privatnosti, dokumentovani sistemi i ostalo.
   actions:
     - theme: brand
       text: Markdown Examples
@@ -18,11 +18,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Informacije
+    details: Na našoj vikipediji se nalaze sve važne informacije.
+  - title: Ažurnost
+    details: Sva pravila i informacije su tačno opisane na vikipediji.
+  - title: Korišćenje
+    details: Korišćenje vikipedije je lako, tako da sve informacije imate na jednom mestu.
 ---
 
