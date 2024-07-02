@@ -11,11 +11,11 @@ hero:
   tagline: Vaša centralna tačka za sve pravila i smernice - pravila servera, smernice zajednice, uslovi korišćenja, politika privatnosti, dokumentovani sistemi i ostalo.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Glavna stranica
+      link: /docs/main-page
+#    - theme: alt
+#      text: API Examples
+#      link: /api-examples
 
 features:
   - title: Feature A

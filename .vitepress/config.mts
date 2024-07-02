@@ -7,8 +7,10 @@ export default defineConfig({
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            {text: 'Home', link: '/'},
-            {text: 'Wiki', link: '/docs/markdown-examples'}
+            {text: 'Početna', link: '/'},
+            {text: 'Wiki', link: '/docs/main-page'},
+            {text: 'Forum', link: 'https://forum.lscrp.net'},
+
         ],
 
         sidebar: [
