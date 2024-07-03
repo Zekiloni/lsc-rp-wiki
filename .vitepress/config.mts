@@ -4,6 +4,9 @@ import {defineConfig} from 'vitepress'
 export default defineConfig({
     title: "Los Santos County Roleplay",
     description: "Oficijalna Vikipedija",
+    head: [
+        ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
