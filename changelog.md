@@ -2,15 +2,32 @@
 
 Sve značajne promene ovog projekta biće dokumentovane na ovoj stranici.
 
-## LSCRP [1.4.0] - 26.09.2024
+## LSCRP [1.3.3] - 27.09.2024
 
 ### Fixed features
-- placeholder
+- fixed login screen bug (nepokazivanje login dialoga)
+- fixed payday timer, minutes counting
+- fixed `/gpsoff` za sve igrače
+- fixed checkpoint disable on player enter checkpoint
+- fixed `/buy` unutar biznisa
+- fixexd reports validation (mysql query rows validation)
+- fixed `/arrest` bug za law fakcije
+- fixed `/engine` bug (samo vlasnik vozila će sada moći da koristi)
+- fixed `/lock` bug (samo vlasnik vozila će sada moći da koristi)
+- fixed `/payphone` special calls bug (911 itd.)
+- fixed `/creategate` za admine
+- fixed `/gate` za igrače i bug (nemate dostup do gate)
 
+
+### Updated features
+- `/pay` je omogućen za plaćanje taksistima (bez levela)
+- refaktorisanje svih timera, kill timera i resetovanja vrednosti timera
+- `/achat` boja prilagodjena, različita od `/f` chata
+- moved `/atog alerts` to `/tog alerts`
 
 ## LSCRP [1.3.2] - 25.09.2024
 
-### Update features
+### Updated features
 - Omogućeno carsign za EMS type fakcije
 - Omogućeno kreiranje lockera za GOV type fakcije
 - Redizajniran reports answer, sada će prikazivati sve informacije
