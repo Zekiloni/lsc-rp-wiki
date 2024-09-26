@@ -25,6 +25,9 @@ Sve značajne promene ovog projekta biće dokumentovane na ovoj stranici.
 - `/achat` boja prilagodjena, različita od `/f` chata
 - moved `/atog alerts` to `/tog alerts`
 
+### Added features
+- Dodata vozila za FD i promenjena boja vozila
+
 ## LSCRP [1.3.2] - 25.09.2024
 
 ### Updated features
