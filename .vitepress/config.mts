@@ -5,7 +5,7 @@ export default defineConfig({
     title: "Los Santos County Roleplay",
     description: "Oficijalna Vikipedija",
     head: [
-        ['link', { rel: 'icon', href: '/favicon.ico' }]
+        ['link', {rel: 'icon', href: '/favicon.ico'}]
     ],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
@@ -13,7 +13,6 @@ export default defineConfig({
             {text: 'Početna', link: '/'},
             {text: 'Wiki', link: '/docs/main-page'},
             {text: 'Forum', link: 'https://forum.lscrp.net'},
-
         ],
 
         sidebar: [
@@ -45,11 +44,18 @@ export default defineConfig({
                     {text: 'Politika privatnosti', link: '/docs/privacy-policy'},
                     {text: 'Uslovi korišćenja', link: '/docs/terms-of-service'}
                 ]
+            },
+            {
+                text: 'Development',
+                items: [
+                    {text: 'Changelog', link: 'changelog'}
+                ],
+
             }
         ],
 
         socialLinks: [
-            {icon: 'github', link: 'https://github.com/vuejs/vitepress'}
+            {icon: 'discord', link: 'https://discord.gg/lscrpnet'}
         ],
 
         notFound: {
