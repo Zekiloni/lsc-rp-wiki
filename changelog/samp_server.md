@@ -4,6 +4,9 @@ Sve značajne promene SA-MP servera će biti zabeležene na ovoj stranici.
 
 ## v1.4.1 - 28.09.2024
 
+### Fixed
+ - Popravljena `/respawn` komanda
+
 ### Updated
 - Dodane tablice na (leo/ems/gov) vozila (LCSD-356)
 - Izmena maksimalan broj nepokretne imovine, najviše 3 nepokretne imovine u bilo kojoj kombinaciji (npr. 2 kuće i 1 biznis, 3 kuće, 1 kuća, 1 biznis i 1 garaža, itd.), bez ograničenja na tip imovine
