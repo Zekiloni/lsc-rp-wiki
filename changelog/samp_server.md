@@ -2,10 +2,20 @@
 
 Sve značajne promene SA-MP servera će biti zabeležene na ovoj stranici.
 
-## v1.3.8 - 28.09.2024
+## v1.4.1 - 28.09.2024
+
+### Updated
+- Dodane tablice na (leo/ems/gov) vozila (LCSD-356)
+- Izmena maksimalan broj nepokretne imovine, najviše 3 nepokretne imovine u bilo kojoj kombinaciji (npr. 2 kuće i 1 biznis, 3 kuće, 1 kuća, 1 biznis i 1 garaža, itd.), bez ograničenja na tip imovine
+- Ukoliko vam je `hunger level` iznad **95**, svakog mintua ce te izgubiti **0.13hp**, `thirst level` skida **0.25hp** sve do **50hp** (nece vam skidati ispod)
+- Komanda `/setstats` za admine improved, nove opcije
+- Komanda `/editvehicle` za admine, dodane nove opcije
 
 ### Added
-- Dodane tablice na (leo/ems/gov) vozila (LCSD-356)
+ - Komanda `/needs` da vidite vas hunger i thirst level
+ - Biznisi otvorenog tipa (walk in biznisi, bez interijera)
+ - Mapa **Stare Crkve**, okolina *North Rock-a*
+ - Ubacena nova 3 interijera garaza
 
 ## v1.3.7 - 28.09.2024
 
