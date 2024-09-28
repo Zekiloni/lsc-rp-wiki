@@ -12,6 +12,7 @@ export default defineConfig({
         nav: [
             {text: 'Početna', link: '/'},
             {text: 'Wiki', link: '/docs/main-page'},
+            {text: 'UCP', link: 'https://lscrp.net'},
             {text: 'Forum', link: 'https://forum.lscrp.net'},
         ],
 
