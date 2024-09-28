@@ -40,7 +40,7 @@ export default defineConfig({
                 ]
             },
             {
-                text: 'SA-MP Server Sistemi',
+                text: 'In-Game Sistemi',
                 collapsed: true,
                 items: [
                     {text: 'Player Leveling', link: '/docs/features/player_leveling'}
