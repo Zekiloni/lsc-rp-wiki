@@ -2,6 +2,11 @@
 
 Sve značajne promene SA-MP servera će biti zabeležene na ovoj stranici.
 
+## v1.3.8 - 28.09.2024
+
+### Added
+- Dodane tablice na (leo/ems/gov) vozila (LCSD-356)
+
 ## v1.3.7 - 28.09.2024
 
 ### Fixed
