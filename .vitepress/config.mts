@@ -33,10 +33,25 @@ export default defineConfig({
             },
             {
                 text: 'Opste stvari',
+                collapsed: true,
                 items: [
                     {text: 'Kontinuitet', link: '/docs/con-page'},
                     {text: 'Istorija', link: '/docs/history-page'}
                 ]
+            },
+            {
+                text: 'SA-MP Server Sistemi',
+                collapsed: true,
+                items: [
+                    {text: 'Player Leveling', link: '/docs/features/player_leveling'}
+                ]
+            },
+            {
+                text: 'Development',
+                items: [
+                    {text: 'Server Changelog', link: '/changelog/samp_server'},
+                    {text: 'Web Changelog', link: '/changelog/web'},
+                ],
             },
             {
                 text: 'Uslovi i pravila',
@@ -45,13 +60,6 @@ export default defineConfig({
                     {text: 'Uslovi korišćenja', link: '/docs/terms-of-service'}
                 ]
             },
-            {
-                text: 'Development',
-                items: [
-                    {text: 'Changelog', link: 'changelog'}
-                ],
-
-            }
         ],
 
         socialLinks: [
