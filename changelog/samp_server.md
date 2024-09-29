@@ -2,6 +2,33 @@
 
 Sve značajne promene SA-MP servera će biti zabeležene na ovoj stranici.
 
+## v1.4.5 - 29.09.2024
+
+### Fixed
+ - Popravljena `/frisk` komanda
+ - Popravljen `/call 911`, nije izbacivalo poruku clanovima LEO organizacija
+ - Popravljena `/payticket` komanda
+ - Popravljena nekolicina MySQL upita koji su izazivali server crash (escaped ')
+ - Popravljene auto-emote tekstovi za `/engine` i `/lock`
+ - Ispravljen draw/stream distance na većine mapa, negde smanjen, negde povećan u zavisnosti od prioriteta mape
+
+
+:::warning
+Par mapa koje su imale prevelik stream/draw distance što je najverovatnije uticalo na nestanak nametagova i respawn vozila
+očekujemo da je rešeno, ukoliko nije biće u sledećem bug-fixu.
+:::
+
+
+### Updated
+ - Unapredjen savings sistem, više tipova savingsa u zavisnosti od balansa (> $100k = visoko-prihodni štedni račun, < standardni račun)
+ - Obavestice vas o thirst-u, hunger-u i alkohol levelu nakon sto pojedete/popijete nesto
+ - Prilagodjena boja vozila news fakcije
+
+### Added
+ - Dodana `/handshake` komanda
+ - Dodana `/tog staff-chat` opcija
+ - Dodati novi dealershipovi, vozila i definisane nove cene
+
 ## v1.4.1 - 28.09.2024
 
 ### Fixed
