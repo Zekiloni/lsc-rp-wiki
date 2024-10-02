@@ -2,6 +2,29 @@
 
 Sve značajne promene SA-MP servera će biti zabeležene na ovoj stranici.
 
+
+## v1.4.7 - 02.10.2024
+
+### Fixed
+- Stanje igrača i oznake: Ispravljene 3D tekst oznake, nametag-ovi, carsignovi vozila, oznake scena i oznake stanja igrača.
+- Komande za vozila: Ispravljena validacija ID-a vozila za `/v sell-to` i validacija povezanosti igrača za `/spec` i `/whisper`.
+- Dinamičke oznake: Ispravljeni parametri za kreiranje dinamičkih oznaka.
+- ORM za inventar: Ispravljeno čuvanje nevažećih ORM ID-ova za stavke u inventaru.
+- SMS i telefonski sistem: Ispravljeno prikazivanje SMS-ova igrača, formatiranje telefonskih poziva i dodate telefonske porudžbine za dostavu hrane.
+- Diskonektovanje karaktera: Ispravljeni padovi servera izazvani čuvanjem podataka o karakteru prilikom diskonektovanja igrača.
+- Formatiranje isplate (payday): Ispravljeno netačno formatiranje isplata i računanje kvote za sledeći nivo.
+- Ostale ispravke: Popravljeni formati za komande `/taxi`, `/duty` i `/call 911`, kao i nekoliko sitnih slovnih grešaka.
+
+### Updated
+- Poruke igrača: Poboljšano formatiranje poruka igrača, uključujući generičke poruke sa parametrima za boju i povećana količina poruka za `/admins`.
+- Telefonski sistem: Refaktorisan telefonski sistem, uključujući metode kao što su `IsPhoneNumberSpecial`, ažurirani brojevi telefona za taksi, mehaničara i dostavu hrane. Dodati maksimalni bakšiš i limit za isplatu dostavljača hrane.
+- Streamer plugin: Ažuriran i uklonjen zastareli streamer plugin fajlovi.
+
+### Added
+- Posao dostavljača hrane: Dodate funkcionalnosti slične Wolt aplikaciji za dostavu hrane, kao i nove opcije za telefonske pozive.
+- Nove komande: Dodate komande `/seatbelt`, `/checkseatbelt`
+
+
 ## v1.4.5 - 29.09.2024
 
 ### Fixed
