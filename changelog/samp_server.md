@@ -15,6 +15,7 @@ Sve značajne promene SA-MP servera će biti zabeležene na ovoj stranici.
 - Formatiranje isplate (payday): Ispravljeno netačno formatiranje isplata i računanje kvote za sledeći nivo.
 - Ostale ispravke: Popravljeni formati za komande `/taxi`, `/duty` i `/call 911`, kao i nekoliko sitnih slovnih grešaka.
 - Popravljen preload animacija
+- Popravljen save zadnjeg owner-a itema
 
 ### Updated
 - Poruke igrača: Poboljšano formatiranje poruka igrača, uključujući generičke poruke sa parametrima za boju i povećana količina poruka za `/admins`.
