@@ -2,6 +2,24 @@
 
 Sve značajne promene SA-MP servera će biti zabeležene na ovoj stranici.
 
+## v1.4.9 - 10.10.2024
+
+### Fixed
+- Bacanje itema na pod sa pozicijom je popravljeno.
+- Popravljena opcija `/editgarage interior-position`.
+
+### Updated
+- Attachments system: Dodata opcija čuvanja i promene veličine attachmenta.
+- `/stats` će se od sada prikazivati u dialogu.
+- Promenjene su boje i simboli `/attempt` i `/ame` komandi.
+- Biznisi sa open int više neće imati problema sa `/buy` pozicijom.
+
+### Added
+- Dodat `HeliCam` sistem za law enforcement Fakcije.
+- Dodato još objekata za `attachment` opciju.
+- Dodati novi custom skinovi za illegalne fakcije.
+- Dodat item `boat license`.
+- Dodata dodatna optimizacija skripte za brže čuvanje i nesmetan rad.
 
 ## v1.4.7 - 02.10.2024
 
